@@ -19,7 +19,7 @@ function preload() {
   img = loadImage('IMAGES/TAG_SPLASH11.png');
   img2 = loadImage('IMAGES/TAG_SPLASH22.png');
   img3 = loadImage('IMAGES/TAG.png');
-  //myFont = loadFont('SHO-CARD.TTF');
+  myFont = loadFont('SHO-CARD.TTF');
 }
 
 function setup() {
